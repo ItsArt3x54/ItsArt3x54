@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ItsArt3x54
+- 👀 I’m interested in Modding on Minecraft
+- 🌱 I’m currently learning Java
+- 📫 reach me with e-mail "dev.art3x54@gmail.com"
