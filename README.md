@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @ItsArt3x54
-- 👀 I’m interested in Minecraft plugin devellopement.
-- 🌱 I’m currently learning Java
-- 📫 reach me with e-mail "dev.art3x54@gmail.com"
+# Artex54:
+Hi im Artex54,
+I'm a Minecraft plugin dev.
